@@ -4,7 +4,7 @@
 
 1. 解方程
 
-```matlab {.line-numbers}
+```matlab
 solve('x^2-1x+1=0', 'x')
 ```
 
